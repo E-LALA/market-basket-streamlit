@@ -19,8 +19,6 @@ A powerful, user-friendly Streamlit web app that performs Market Basket Analysis
 
 This tool helps you discover relationships between items in transactional data. You can analyze what products are often bought together and generate actionable association rules.
 
-<img src="https://user-images.githubusercontent.com/your-screenshot.png" width="800"/>
-
 ---
 
 ## 🧠 Example Rule (Natural Language Output)
