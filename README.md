@@ -28,6 +28,3 @@ This tool helps you discover relationships between items in transactional data. 
 > "If a customer buys **Milk, Sugar**, they are **2.8× more likely** to also buy **Pepsi** with **85% confidence**."
 
 ---
-
-## 📁 File Structure
-
